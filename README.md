@@ -9,6 +9,7 @@ If the driver is feeling sleepy in we can alarm the user.
 ### Demonstration Video
 [![Watch the video](https://user-images.githubusercontent.com/46355027/91936767-21c36500-ed0e-11ea-8520-85449ffe9976.jpg)](https://drive.google.com/file/d/1iu9BU_ngAXZ-BdRD1D-c6HA1RRjPxhYR/view?usp=sharing)
 ### Screenshots
-![dd](https://user-images.githubusercontent.com/46355027/91937374-64d20800-ed0f-11ea-995a-2ddb1da3d1b2.jpeg)
+
+![dd](https://user-images.githubusercontent.com/46355027/91937510-b5e1fc00-ed0f-11ea-8085-e9b5d7b216ee.jpeg)
 ![Screenshot (269)](https://user-images.githubusercontent.com/46355027/91936569-c1342800-ed0d-11ea-82b6-1d5ddb045a0e.png)
 ![ddd](https://user-images.githubusercontent.com/46355027/91937264-2f2d1f00-ed0f-11ea-9499-22a562e0c937.png)
